@@ -1,0 +1,2 @@
+Added confliting content in feature 2
+This will conflict with feat 3
