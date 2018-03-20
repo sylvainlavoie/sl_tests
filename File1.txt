@@ -2,3 +2,4 @@ Added a new file for feature 1
 
 2- second change replace 2nd
 3- also add a new lines
+4- 4th lines
