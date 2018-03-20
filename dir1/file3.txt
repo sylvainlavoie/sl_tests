@@ -1,2 +1,4 @@
+File 3 added for feat 3
 Added confliting content in feature 2
+containing 2 lignes
 This will conflict with feat 3
