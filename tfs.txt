@@ -1,3 +1,1 @@
-added a file to test TFS identity vs Local config
-
-Now edit the file in a folder where I setup a local config
+Replace everything to prove I can do scrap work but assiciate to workitem
