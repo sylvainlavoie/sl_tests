@@ -1,1 +1,3 @@
 added a file to test TFS identity vs Local config
+
+Now edit the file in a folder where I setup a local config
